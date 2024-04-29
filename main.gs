@@ -1,5 +1,5 @@
 function ResponseMail() {
-  const subject = '工業力学';
+  const subject = '自動返信';
   const sendMailBodyWithAttachment = '課題の提出確認しました！';
   const sendMailBodyWithoutAttachment = '申し訳ありませんが、添付ファイルが見つかりませんでした。再度提出をお願いします。';
 
