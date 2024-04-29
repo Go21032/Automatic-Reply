@@ -12,3 +12,7 @@
  const sendMailBodyWithAttachment = '課題の提出確認しました！';
  const sendMailBodyWithoutAttachment = '申し訳ありませんが、添付ファイルが見つかりませんでした。再度提出をお願いします。';
 ```
+# トリガーの設定
+以下の通りに1分おきに未読メールを探し、自動返信する設定
+![スクリーンショット (1906)](https://github.com/Go21032/Automatic-Reply/assets/88703525/1d6509aa-a6d4-41cb-bd04-296c4cd17609)
+
